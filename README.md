@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arbaz Alam</h1>
 
-## I'm a student at Jamia Millia Islamia, an avid competitive coder, webdeveloper, and enthusiastic learner.
+## I'm a student at Jamia Millia Islamia, an avid competitive coder, web developer, and enthusiastic learner.
 
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate with other developers and learn more.
